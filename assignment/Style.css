@@ -7,20 +7,22 @@ body{
     padding: 20px;
 }
 h2{
-    background-color: aqua;
+    text-align: center;
+    background-color: rgb(21, 230, 230);
     color: aliceblue;
 }
 h3{
+    text-align: center;
     background-color: darkorchid;
     color: aliceblue;
 }
 .box{
     height: 100%;
-    width: 30%;
-    float: right;
+    width: 70%;
+    float: center;
     overflow: hidden;
     position: relative;
-    margin: 0 19px;
+    margin: 19px;
   }
   .img1{
     position: absolute;
